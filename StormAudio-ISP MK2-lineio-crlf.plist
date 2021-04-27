@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brand</key>
+		<string>StormAudio</string>
+		<key>cat</key>
+		<string>ISP MK2</string>
+		<key>codes</key>
+		<dict>
+			<key>POWER OFF</key>
+			<string>ssp.power.off</string>
+			<key>POWER ON</key>
+			<string>ssp.power.on</string>
+			<key>XBox</key>
+			<string>ssp.input.[33]</string>
+			<key>Apple TV</key>
+			<string>ssp.input.[11]</string>
+			<key>Blue Ray</key>
+			<string>ssp.input.[04]</string>
+			<key>Roon</key>
+			<string>ssp.input.[017]</string>
+			<key>Chrome Cast</key>
+			<string>ssp.input.[77]</string>
+			<key>Mute On</key>
+			<string>ssp.mute.on</string>
+			<key>Mute Off</key>
+			<string>ssp.mute.off</string>
+			<key>Volume Dim On</key>
+			<string>ssp.dim.on</string>
+			<key>Volume Dim Off</key>
+			<string>ssp.dim.off</string>
+			<key>Volume Up</key>
+			<string>ssp.vol.up</string>
+			<key>Volume Down</key>
+			<string>ssp.vol.down</string>
+			<key>.VOLUME STATUS</key>
+			<string>ssp.vol</string>
+			<key>.VOLUME SET</key>
+			<string>ssp.vol.[##]</string>
+			<key>.MUTE STATUS</key>
+			<string>ssp.mute</string>
+			<key>.INPUT STATUS</key>
+			<string>ssp.input</string>
+			<key>.VOLUME FORMAT</key>
+			<string>1</string>
+		</dict>
+		<key>method</key>
+		<string>lineio-crlf</string>
+		<key>type</key>
+		<integer>16</integer>
+		<key>uuid</key>
+		<string>4F61CBEF-CABB-45FE-BE7A-173C14753B67</string>
+	</dict>
+</array>
+</plist>
