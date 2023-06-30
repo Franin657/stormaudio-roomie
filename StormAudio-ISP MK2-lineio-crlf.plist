@@ -35,7 +35,7 @@
 			<string>ssp.vol.up</string>
 			<key>Volume Down</key>
 			<string>ssp.vol.down</string>
-			<key>.VOLUME STATUS</key>
+	
 			<string>ssp.vol</string>
 			<key>.VOLUME SET</key>
 			<string>ssp.vol.[##]</string>
